@@ -85,7 +85,7 @@ const CONFIG = {
 			id: '6',
 			name: 'Moodle',
 			icon: 'school',
-			link: 'moodle.rwth-aachen.de/',
+			link: 'https://moodle.rwth-aachen.de/',
 		},
 	],
 
@@ -162,11 +162,11 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Moodle',
-					link: 'moodle.rwth-aachen.de/',
+					link: 'https://moodle.rwth-aachen.de/',
 				},
 				{
 					name: 'RWTh Online',
-					link: 'online.rwth-aachen.de/',
+					link: 'https://online.rwth-aachen.de/',
 				},
 				{
 					name: 'RWTH Mail',
