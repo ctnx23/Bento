@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Moodle',
+			name: 'Google Scholar',
 			icon: 'school',
-			link: 'https://moodle.rwth-aachen.de/',
+			link: 'https://scholar.google.de/',
 		},
 	],
 
